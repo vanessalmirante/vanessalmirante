@@ -1,6 +1,6 @@
 ### Olá! Seja bem vinde!✨
 
-🌱 Estou aprendendo HTML, CSS e JavaSacript na Cubos Academy. <br>
+🌱 Estou aprendendo HTML, CSS e JavaSacript. <br>
 😄 Pronomes: ela/dela.
 
 
