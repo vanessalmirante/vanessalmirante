@@ -1,22 +1,12 @@
-### Olá! Seja bem vinde!✨
+### Hello World! 🐞
 
-🌱 Estou aprendendo HTML, CSS e JavaSacript. <br>
-😄 Pronomes: ela/dela.
-
-
-##
-<div><br>
- <img alt="Ícon HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
- <img alt="Ícon CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
- <img alt="Ícon JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
- <img alt="Ícon Nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
- <img alt="Ícon C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-</div>
+- 🖥️ I'm a Computer Engineering student at UFBA
+- 📚 Currently studying Data Science at EBAC
+- 👩🏽‍🎓 I hold bachelor's degrees in Interdisciplinary Health and in Science & Technology, both from UFBA
+- 👩🏽‍💻 I've worked in web development (JavaScript, Node.js, React, PostgreSQL and HTML/CSS), as well as with Python, C++, and Linux, and I'm now focusing on ML models for data analysis
+- 🌱 I'm always learning something new! Lately, I’ve been figuring out how to play the kalimba 🎶 and optimizing my algorithms one note at a time
+- 😄 Pronouns: she/her
 
 ##
-<br>
+### 🔎 Where to find me 
 <a href="https://www.linkedin.com/in/vanessa-almirante/"> <img alt="Ícon HTML" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
-
-</div>
-  
-
